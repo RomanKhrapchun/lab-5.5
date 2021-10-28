@@ -1,0 +1,4 @@
+﻿  lab-5.5.cpp
+C:\Users\Roma\source\repos\lab-5.5\lab-5.5.cpp(38,5): warning C4552: '<=': result of expression not used
+C:\Users\Roma\source\repos\lab-5.5\lab-5.5.cpp(39,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  lab-5.5.vcxproj -> C:\Users\Roma\source\repos\lab-5.5\Debug\lab-5.5.exe
